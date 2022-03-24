@@ -2,6 +2,9 @@
 #依赖：
 #pip3 install requests
 #pip3 install telethon
+[task_local]
+#快手极速版
+#45 4-23/2 * * *
 from telethon import TelegramClient
 import os
 current_path = os.path.dirname(os.path.abspath(__file__))

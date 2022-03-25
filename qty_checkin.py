@@ -1,4 +1,5 @@
-# cron：0 0 * * 0 python3 example.py
+[task_local]
+#cron "5 0 0 * * *" autoShareCode.py, tag:qty自动签到
 from telethon import TelegramClient
 import os
 current_path = os.path.dirname(os.path.abspath(__file__))

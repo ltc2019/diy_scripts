@@ -3,8 +3,8 @@
 #pip3 install requests
 #pip3 install telethon
 [task_local]
-#快手极速版
-#45 4-23/2 * * *
+#cron "5 0 0 * * 1" autoShareCode.py, tag:自动提交助力码
+
 from telethon import TelegramClient
 import os
 current_path = os.path.dirname(os.path.abspath(__file__))

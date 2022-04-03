@@ -1,4 +1,4 @@
-[task_local]
+#
 #cron "5 0 0 * * *" autoShareCode.py, tag:qty自动签到
 from telethon import TelegramClient
 import os

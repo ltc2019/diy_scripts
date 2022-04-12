@@ -4,11 +4,11 @@
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 杀猪盘切勿投资！！！！
 注册地址  带本人邀请 谢谢
-https://suming0.com/sm/#/Pages/register/register?invite=758
+夙铭 https://suming0.com/sm/#/Pages/register/register?invite=758
 签到3天换大米
 变量  sm_data
 手动抓包https://suming123.com 任意一个里面的的body
- 
+cron:30 6 * * *
 */
  
  

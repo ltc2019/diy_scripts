@@ -8,6 +8,10 @@
  * @param num 跑多少ck
  * @param againUserIndex 需要重新跑的ck
  * @returns {Promise<unknown>}
+
+微定制组队瓜分-jd_team60.js
+export jd_wdz_activityId="活动ID"
+export jd_wdz_activityUrl="https://cjhydz-isv.isvjcloud.com"
  */
 
 function openCardActivity(activityId, activityUrl, pin, num, againUserIndex) {

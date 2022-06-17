@@ -1,5 +1,5 @@
 #
-#cron "5 0 0 * * *" autoShareCode.py, tag:qty自动签到
+#cron "5 0 0 * * *" diy_qtycheckin.py, tag:qty自动签到
 from telethon import TelegramClient
 import os
 current_path = os.path.dirname(os.path.abspath(__file__))
